@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @msrepos Mahmoud Farag
+- 👀 I’m interested in software development, microservices, DevOps
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on open source application
+- 📫 How to reach me mahmoudoop@gmail.com
+- 😄 Pronouns: Mahmoud
+- ⚡ Fun fact: :)
